@@ -71,6 +71,7 @@ otaripper payload.bin (on Windows)
 ## Contributors
 
 - [Syed Insaf][syedinsaf]
+- [Jean Rivera][jeanrivera] No commits only ideas!! 😜
 
 [syedinsaf]: https://github.com/syedinsaf
 [payload_dumper-incremental-ota]: https://github.com/vm03/payload_dumper/issues/53
